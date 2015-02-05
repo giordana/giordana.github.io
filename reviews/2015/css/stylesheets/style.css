@@ -140,5 +140,8 @@ li {
 .section.step.grey{
   background-color: #660066;
   color: white;
-;
+}
+
+.section.step.white{
+  background-color: #F0F0F0;
 }
