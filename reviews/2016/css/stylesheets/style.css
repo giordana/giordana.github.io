@@ -1,0 +1,148 @@
+/* line 3, ../sass/style.scss */
+body {
+  font: 16px;
+  font-family: "Open Sans";
+  visibility: visible;
+  background-size: 300px;
+  background-repeat: repeat;
+  margin: 0px;
+  line-height: 120%;
+}
+
+/* line 13, ../sass/style.scss */
+.section {
+  height: 50%;
+  width: 100%;
+  min-height: 360px;
+  position: relative;
+  background: #FFF;
+}
+/* line 19, ../sass/style.scss */
+.section .step {
+  width: 100%;
+  height: 100%;
+  min-height: 360px;
+}
+/* line 23, ../sass/style.scss */
+.section .step.color00 {
+  background-color: #1CF9D4;
+}
+/* line 26, ../sass/style.scss */
+.section .step.color01 {
+  background-color: #1DE4DB;
+}
+/* line 29, ../sass/style.scss */
+.section .step.color02 {
+  background-color: #1FD0E2;
+}
+/* line 32, ../sass/style.scss */
+.section .step.color03 {
+  background-color: #20BBE9;
+}
+/* line 35, ../sass/style.scss */
+.section .step.color04 {
+  background-color: #22A7F0;
+}
+/* line 38, ../sass/style.scss */
+.section .step.color05 {
+  background-color: #2392F7;
+}
+/* line 41, ../sass/style.scss */
+.section .step.color06 {
+  background-color: #4F87DC;
+}
+/* line 44, ../sass/style.scss */
+.section .step.color07 {
+  background-color: #727EC7;
+}
+/* line 47, ../sass/style.scss */
+.section .step.color08 {
+  background-color: #9575B2;
+}
+/* line 50, ../sass/style.scss */
+.section .step.color09 {
+  background-color: #DC6387;
+}
+/* line 53, ../sass/style.scss */
+.section .step.color10 {
+  background-color: #FF5A72;
+}
+/* line 56, ../sass/style.scss */
+.section .step.color11 {
+  background-color: #FF6A62;
+}
+/* line 59, ../sass/style.scss */
+.section .step.color12 {
+  background-color: #FF7755;
+}
+/* line 62, ../sass/style.scss */
+.section .step.color13 {
+  background-color: #FF9640;
+}
+/* line 65, ../sass/style.scss */
+.section .step.color14 {
+  background-color: #FFBF40;
+}
+/* line 68, ../sass/style.scss */
+.section .step.color15 {
+  background-color: #FFC940;
+}
+
+/* line 74, ../sass/style.scss */
+P {
+  margin: 0px;
+  position: relative;
+  display: block;
+  padding: 10px;
+  margin: 0;
+  border: 0;
+}
+
+/* line 83, ../sass/style.scss */
+h1, h2, dt {
+  padding: 10px;
+  font-size: 24px;
+  margin: 0;
+  border: 0;
+  font-weight: normal;
+}
+
+/* line 91, ../sass/style.scss */
+h2, dt {
+  font-size: 18px;
+}
+
+/* line 95, ../sass/style.scss */
+li {
+  list-style-type: disc;
+  line-height: 180%;
+}
+
+/* line 100, ../sass/style.scss */
+.cat {
+  width: 100%;
+  height: 100%;
+  min-height: 260px;
+  background-position: center bottom;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  -webkit-background-size: 50%;
+  -moz-background-size: 50%;
+  -o-background-size: 50%;
+  background-size: 50%;
+}
+
+/* line 113, ../sass/style.scss */
+[highlight='true'] {
+  color: white;
+}
+
+.section.step.grey{
+  background-color: #451541;
+  color: white;
+}
+
+.section.step.white{
+  background-color: #F0F0F0;
+  color: 451541;
+}
